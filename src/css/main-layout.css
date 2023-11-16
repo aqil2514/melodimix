@@ -332,6 +332,7 @@ body::-webkit-scrollbar {
     padding: 0 10px;
     background-color: #111;
     width: 100%;
+    z-index: 999;
     max-height: 65px;
     overflow-y: hidden;
   }
